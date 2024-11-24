@@ -58,13 +58,13 @@
             "spawnType": "overworld"
         },
         "DragonSpawnSettings": {
-            "shouldSpawn": true,
+            "shouldSpawn": false,
             "spawnDebug": false,
-            "spawnRandomChance": 100,
+            "spawnRandomChance": 0,
             "chunkFreq": 0,
             "chunkOffset": 0,
             "spawnType": "subterranean",
-            "maxIn256Region": 1
+            "maxIn256Region": 0
         },
         "GriffonSpawnSettings": {
             "shouldSpawn": true,
