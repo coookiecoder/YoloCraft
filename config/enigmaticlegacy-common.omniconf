@@ -247,10 +247,10 @@
     B:RingofEnderEnabled=true
 
     # Whether or not Ring of the Seven Curses should be enabled. [default: true, synchronized: yes]
-    B:RingoftheSevenCursesEnabled=true
+    B:RingoftheSevenCursesEnabled=false
 
     # Whether or not Scroll of Ageless Wisdom should be enabled. [default: true, synchronized: yes]
-    B:ScrollofAgelessWisdomEnabled=true
+    B:ScrollofAgelessWisdomEnabled=false
 
     # Whether or not Scroll of Postmortal Recall should be enabled. [default: true, synchronized: yes]
     B:ScrollofPostmortalRecallEnabled=true
