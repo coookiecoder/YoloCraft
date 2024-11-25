@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "dimension": "minecraft:overworld",
+    "mob": "mythicmounts:dragon",
+    "mincount": {
+      "amount": 0,
+      "mob": "mythicmounts:dragon",
+      "perplayer": false
+    },
+    "result": "deny"
+  }
+]
